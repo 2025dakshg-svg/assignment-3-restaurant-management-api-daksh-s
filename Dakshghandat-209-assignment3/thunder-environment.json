@@ -1,0 +1,7 @@
+{
+  "restaurant_management": {
+    "token": "PASTE_YOUR_TOKEN_HERE",
+    "restaurantId": "PASTE_RESTAURANT_ID_HERE",
+    "menuItemId": "PASTE_MENU_ITEM_ID_HERE"
+  }
+}
